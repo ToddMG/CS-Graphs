@@ -32,4 +32,4 @@ def earliest_ancestor(ancestors, starting_node):
 
         return oldest[0]
     else:
-        return -1
+        return -1 # Has no parents
